@@ -7,4 +7,4 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 
-$routes->get('/Library_Home', 'Library::index');
+$routes->get('/Library', 'Library::home');
