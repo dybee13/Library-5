@@ -252,7 +252,7 @@
           <div class="item">
             <div class="box">
               <div class="img-box">
-                <img src="images/c-1.png" alt="">
+                <img src="../Assets/img/cstmr1.jpg" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -261,7 +261,6 @@
                     Dipiscing elit
                   </span>
                 </h5>
-                <img src="images/quote.png" alt="">
                 <p>
                   Dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 </p>
@@ -280,7 +279,6 @@
                     Dipiscing elit
                   </span>
                 </h5>
-                <img src="images/quote.png" alt="">
                 <p>
                   Dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 </p>
@@ -299,7 +297,6 @@
                     Dipiscing elit
                   </span>
                 </h5>
-                <img src="images/quote.png" alt="">
                 <p>
                   Dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
                 </p>
